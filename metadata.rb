@@ -1,0 +1,5 @@
+maintainer       "nrw"
+maintainer_email "ops@narrowcouture.com"
+license          "MIT License"
+description      "Simple ruby-shadow install"
+version          "0.0.1"

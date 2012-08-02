@@ -2,7 +2,7 @@ package "make" do
   action :install
 end
 
-package "ruby1.8" do
+package "ruby1.8-dev" do
   action :install
 end
 
